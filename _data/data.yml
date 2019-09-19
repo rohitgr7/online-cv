@@ -148,7 +148,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-			- name: Machine Learning
+      - name: Machine Learning
         level: 95%
 
       - name: Deep learning
