@@ -57,14 +57,14 @@ education:
       university: Maharaja Agrasen Institute of Technology
       time: 2016 - 2020
       details: |
-          - 8.04 CGPA
+          8.04 CGPA
 
     - degree: AISSCE(CLASS XII)
       university: Maharaja Agarsain Public School
       time: 2013 - 2016
       details: |
-          - 86.83% 12th
-          - 89.3 10th
+          89.3 10th and 86.83% 12th
+
 
 experiences:
     - role: Data Scientist Intern
