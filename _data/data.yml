@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: rohitgr1998@gmail.com
     phone: +91 8860117496
-    website: rohitgr7.github.io/ #do not add http://
+    website: rohitgr7.github.io #do not add http://
     linkedin: rohitgr7
     github: rohitgr7
     gitlab:
@@ -31,15 +31,15 @@ sidebar:
       - idiom: Hindi
         level: Native
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Snowboarding
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
 career-profile:
     title: Career Profile
@@ -93,10 +93,6 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: TVmodels
@@ -149,19 +145,19 @@ skills:
 
     toolset:
       - name: Machine Learning
-        level: 95%
+        level: 80%
 
       - name: Deep learning
-        level: 95%
+        level: 80%
 
       - name: Data cleaning & Visualization
-        level: 95%
+        level: 80%
 
       - name: Feature Engineering
-        level: 95%
+        level: 80%
 
       - name: Algorithms and Data Structures
-        level: 95%
+        level: 80%
 
       - name: Python
         level: 95%
