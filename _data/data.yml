@@ -7,32 +7,29 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rohit Gupta
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: rohitgr1998@gmail.com
+    phone: +91 8860117496
+    website: rohitgr7.github.io/ #do not add http://
+    linkedin: rohitgr7
+    github: rohitgr7
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@iamroht'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -47,84 +44,52 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A highly skilled, competent and diligent individual seeking
+      an opportunity to establish a career as a Data Scientist.
+      Familiar with gathering, cleaning, processing and organizing
+      data for use by technical and non-technical personnel through
+      predictive modeling. Highly skilled in machine learning,
+      data visualization, and creative thinking. Involved in Python
+      open source community and passionate about Computer Vision and NLP.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BTech in Computer Science
+      university: Maharaja Agrasen Institute of Technology
+      time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+          - 8.04 CGPA
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: AISSCE(CLASS XII)
+      university: Maharaja Agarsain Public School
+      time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - 86.83% 12th
+          - 89.3 10th
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist Intern
+      time: June 2019 – July 2019
+      company: Humonics Global, Gurugram, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Preprocessed data and created the data pipeline.
+          - Researched and implemented deep learning models for
+          	Automating Car Insurance Claims using object-detection algorithms.
+          - Integrated the models in the production system.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Computer Vision Intern
+      time: March 2019 – May 2019
+      company: PupilMesh Pvt LTD., Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Computer vision oriented R&D. Created Vehicle Detection and
+          	Tracking for real-time systems.
+          - This project was aimed at tracking vehicles on an embedded system.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Summer Intern
+      time: June 2018 – July 2018
+      company: CDOT, Delhi, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Worked on PM testing of RAMAN Amplifier System.
+          - Tested and integrated the pipeline on the hardware backend.
 
 projects:
     title: Projects
@@ -134,67 +99,90 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: TVmodels
+        link: "https://github.com/rohitgr7/tvmodels"
+        tagline: "Python package which contains the implementation
+        of vision models."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Neural Machine translation
+        link: "https://github.com/rohitgr7/ml-101/tree/master/nlp"
+        tagline: "Implementation of different attention-based machine
+        translation algorithms using the seq-seq networks."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Neural Style Transfer
+        link: "https://github.com/rohitgr7/neural-style-transfer"
+        tagline: "The application can transfer textures from
+        some art on an image."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Facenet-tf
+        link: "https://github.com/rohitgr7/facenet-tf"
+        tagline: "Detect and verify faces known and unknown
+        using Siamese networks."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Facial-emotion-recognition
+        link: "https://github.com/rohitgr7/facial-expression-recog"
+        tagline: "Detect real-time emotions of people using
+        facial-features using CNNs."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#     papers:
+#       - title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+			- name: Machine Learning
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Deep learning
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Data cleaning & Visualization
+        level: 95%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Feature Engineering
+        level: 95%
+
+      - name: Algorithms and Data Structures
+        level: 95%
+
+      - name: Python
+        level: 95%
+
+      - name: Numpy & Pandas
+        level: 80%
+
+      - name: Scikit-learn
+        level: 80%
+
+      - name: Matplotlib & Seaborn
+        level: 80%
+
+      - name: Pytorch, Keras & Tensorflow
+        level: 80%
+
+      - name: SQL
+        level: 70%
+
+      - name: Bash
+        level: 80%
+
+      - name: Javascript & C++
+        level: 80%
